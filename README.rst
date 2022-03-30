@@ -1,10 +1,10 @@
-Project DeepSpeech - Fork of v0.9.3, March 30, 2022
+Project DeepSpeech - Fork of 0.10.0a3, March 30, 2022
 ===================================================
 
 Modifications and notes will apear here.
 
 
-Project DeepSpeech - Orginal v0.9.3
+Project DeepSpeech - Orginal 0.10.0a3
 ===================================
 
 .. image:: https://readthedocs.org/projects/deepspeech/badge/?version=latest
