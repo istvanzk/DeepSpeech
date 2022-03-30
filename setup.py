@@ -16,7 +16,7 @@ def main():
         'absl-py',
         'attrdict',
         'bs4',
-        'numpy',
+        'numpy==1.21',
         'optuna',
         'opuslib == 2.0.0',
         'pandas',
