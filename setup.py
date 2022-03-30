@@ -36,11 +36,11 @@ def main():
     ]
 
     tensorflow_pypi_dep = [
-        'tensorflow == 1.15.4'
+        'tensorflow >= 1.15.4'
     ]
 
     horovod_pypi_dep = [
-        'horovod[tensorflow] == 0.21.3'
+        'horovod[tensorflow] >= 0.21.3'
     ]
 
     # TODO: FIXME: This is likely not needed anymore given the way TC and
